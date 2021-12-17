@@ -10,7 +10,7 @@ export function Menu() {
             <NavLink activeClassName={'active'} to={'/contact'}>Contact us</NavLink>
             <NavLink activeClassName={'active'} to={'/about'}>About</NavLink>
             <NavLink activeClassName={'active'} to={'/pricing'}>Pricing</NavLink>
-            <NavLink activeClassName={'active'} to={'/product/cartofi'}>Our best selling product</NavLink>
+            <NavLink activeClassName={'active'} to={'/product/cartofi-1235'}>Our best selling product</NavLink>
         </div>
     )
 }

@@ -6,13 +6,13 @@ export function ProductList() {
     const [productList] = useState([
         {
             id: 1,
-            name: 'cartofi',
+            name: 'cartofi-1235',
         }, {
             id: 2,
-            name: 'pepene',
+            name: 'pepene-231231',
         }, {
             id: 3,
-            name: 'rosie',
+            name: 'rosie-456',
         },
     ])
     return (

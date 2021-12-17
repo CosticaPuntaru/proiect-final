@@ -10,7 +10,7 @@ export function ProductDetails() {
             <h1>{productName}</h1>
             <p>
 
-                Product detail page for {params.productName}
+                Product detail page for {productName}
             </p>
         </div>
     )

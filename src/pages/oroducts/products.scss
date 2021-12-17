@@ -1,0 +1,18 @@
+
+.ProductsPage {
+  display: flex;
+  gap: 1rem;
+
+  .ProductMenu {
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    a{
+      padding: 1rem;
+    }
+  }
+
+  .ProductsContent {
+    flex: 1;
+  }
+}
